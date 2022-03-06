@@ -2,5 +2,5 @@
 
 const char* PosicionErroneaExcepcion::what() const
 {
-	return "Posicion errónea";
+	return "Posicion errï¿½nea";
 }
